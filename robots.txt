@@ -1,0 +1,9 @@
+# Allow all crawlers
+User-agent: *
+Allow: /
+
+# Disallow admin areas (if any)
+Disallow: /api/
+
+# Sitemap
+Sitemap: https://kassa.kr/sitemap.xml
